@@ -17,3 +17,10 @@ This project allows users to add, view, and delete tasks, with data stored in th
 - Local Storage API
 - Array Methods (push, splice, forEach)
 - Dynamic Rendering
+
+# 🎯 Usage
+1. Enter a task in the input field
+2. Click Add or press Enter
+3. Double-click a task to edit it
+4. Use checkbox to mark complete
+5. Click Delete to remove a task
